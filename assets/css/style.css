@@ -156,3 +156,21 @@ nav a:hover {
   height: 3px;
   background-color: #02a3dd;
 }
+.widget_square {
+  background-color: #02a3dd;
+  width: 150px;
+  height: 150px;
+  margin-top: 15px;
+}
+.box_square {
+  display: flex;
+  justify-content: space-around;
+}
+.container_square {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.banner_apointment {
+  margin-top: 20px;
+}
