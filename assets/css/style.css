@@ -130,6 +130,18 @@ nav a:hover {
 
   border-bottom: 0.2px solid #d7d6d6;
 }
+.banner-contact {
+  display: flex;
+  align-items: center;
+  padding-bottom: 10px;
+  padding-top: 13px;
+  font-weight: 600;
+  border-bottom: 0.2px solid #d7d6d6;
+}
+.banner-contact div {
+  margin-right: 10px;
+}
+
 #geral {
   display: flex;
   justify-content: center;
@@ -173,4 +185,7 @@ nav a:hover {
 }
 .banner_apointment {
   margin-top: 20px;
+}
+.img-icon {
+  background-color: #d7d6d6;
 }
