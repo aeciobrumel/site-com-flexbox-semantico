@@ -189,3 +189,20 @@ nav a:hover {
 .img-icon {
   background-color: #d7d6d6;
 }
+article .news-data {
+  display: flex;
+}
+article .news-posted-at {
+  background-color: #2b4c99;
+  color: #fff;
+  font-size: 12px;
+  padding: 10px;
+  margin-right: 2px;
+}
+article .news-comment {
+  background-color: #02a3dd;
+  color: #fff;
+
+  font-size: 12px;
+  padding: 10px;
+}
